@@ -1,4 +1,4 @@
-.App{
+.form{
     height: 100vh;
     padding: 0px 100px;
     display:flex;
@@ -21,14 +21,6 @@
     align-items: center;
 }
 
-.delete {
-    border: none;
-    padding: 3px;
-    background-color: white;
-    cursor: pointer;
-    border: 1px solid rgb(245, 191, 191);
-    color:rgb(242, 19, 49);
-}
 
 .update {
     border: none;
