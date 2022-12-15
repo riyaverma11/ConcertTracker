@@ -2,6 +2,10 @@
 Hi! Thanks for checking out Concert Tracker. This project was created using **MySQL, React, Node.js, and Express.js** for CS348: Information Systems at Purdue University.
 
 
+## Demo Video
+Here's a link to our demo: *coming soon*
+
+
 ## Features of our app
 ### Registration/Login/Logout
 - Registration page creates a user's profile on Concert Tracker
@@ -47,7 +51,3 @@ Hi! Thanks for checking out Concert Tracker. This project was created using **My
   - Have you ever wondered about which concerts you went to during a specific date range? Just type in the two dates and we'll list all the concerts you went to!
   - User inputs start and end date to create a range that will find all the concerts the user has been too in the specified time span
   - SQL query involved using concerts table
-
-
-## Demo Video
-Here's a link to our demo: *coming soon*
