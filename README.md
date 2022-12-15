@@ -32,13 +32,21 @@ Hi! Thanks for checking out Concert Tracker. This project was created using **My
 ### Reports Page
 - **Report 1: Who went to your show?**
   - Have you ever wondered which users went to a tour in a specific city? This is a great way of seeing which users are in your area and enjoy the same artist as you!
-  - 
+  - User inputs tour name and city to find a list of users who attended the specified tour and city combination
+  - SQL query involved joining the city and concerts table
+
 - **Report 2: What concerts were held at this venue?**
   - Have you ever wondered about what other concerts were ever held at a venue? Just type in the name of the venue and we'll tell you all the concerts our users have been to at this venue!
+  - User inputs venue name to find a list of tours that were performed at the specified venue
+  - SQL query involved joining the venue and concerts table
 - **Report 3: What is the average age of users with same favorite artist?**
   - Have you ever wondered about the average age of people who have the same favorite artist? Just type in the name of the artist and we'll tell you their fanbase's average age!
+  - User inputs an artist name to find the average age of the speficied artist's fanbase
+  - SQL query involved using users table and creating a subquery
 - **Report 4: What concerts did I go to between two dates?**
   - Have you ever wondered about which concerts you went to during a specific date range? Just type in the two dates and we'll list all the concerts you went to!
+  - User inputs start and end date to create a range that will find all the concerts the user has been too in the specified time span
+  - SQL query involved using concerts table
 
 
 ## Demo Video
