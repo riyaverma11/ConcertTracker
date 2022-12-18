@@ -3,7 +3,7 @@ Hi! Thanks for checking out Concert Tracker. This project was created using **My
 
 
 ## Demo Video
-Here's a link to our demo: *coming soon*
+Here's a link to our demo: https://youtu.be/xmlC_8SovZc
 
 
 ## Features of our app
