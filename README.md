@@ -1,5 +1,5 @@
 # ConcertTracker
-Hi! Thanks for checking out Concert Tracker. This project was created using **MySQL, React, Node.js, and Express.js** for CS348: Information Systems at Purdue University.
+Thanks for checking out Concert Tracker, an app that helps users keep track all their concert information like: tour name, artist name, date, venue, and city! This project was created using **MySQL, React, Node.js, and Express.js** for CS348: Information Systems at Purdue University.
 
 
 ## Demo Video
